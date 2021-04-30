@@ -1,0 +1,29 @@
+------------- Folja -------------
+FL - Folje
+PJS - Pjesore
+PES - Pësore
+VTV - Vetvetore
+
+DEF - Dëftore
+LDH - Lidhore
+HAB - Habitore
+KSH - Kushtore
+DSH - Dëshirore
+UDH - Urdhërore
+
+VEP - Veprore
+JVP - Joveprore
+
+TSH - E tashmja
+KTH - E kryera e thjeshtë
+PKR - E pakryera
+
+NJS - Njëjës
+SHM - Shumës
+
+I - Veta e parë
+II - Veta e dytë
+III - Veta e tretë
+
+TRS - Trajtë e shkurter
+----------------------------------
