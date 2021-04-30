@@ -1,8 +1,8 @@
 # sq-morph-dict
 _EN_
 
-A morphological dict for the Albanian language with custom devised pos tags. Currently, it contains only verbs. Verbs in Albanian language have a high degree of inflection
-The dict contains ~6500 verbs, with 99% of them conjugated automatically by Albanian Grammar rules. Accuracy is high but there may be a transcript error here and there(for the manually conjugated ones).
+A morphological dict for the Albanian language with custom devised pos tags. Currently, it contains only verbs. Verbs in Albanian language have a high degree of inflection. 
+The dict contains ~6500 verbs, with 99% of them conjugated automatically based on Albanian Grammar rules. Accuracy is high but there may be a transcript error here and there(for the manually conjugated ones).
 
 The format is three columns separated by tabs: the inflected form of the word, the base form, and its POS tag. 
 See **verbs_tagged.txt**
